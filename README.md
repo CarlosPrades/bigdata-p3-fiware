@@ -1,4 +1,4 @@
-# Proyecto 3 · Título del proyecto
+# Proyecto 3 · Smart City con FIWARE
 
 
 ## Descripción y objetivo
