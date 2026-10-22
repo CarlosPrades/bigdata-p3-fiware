@@ -1,0 +1,32 @@
+# Datos y credenciales
+data/*.csv
+data/*.json
+.env
+*.pem
+
+# Raw data
+data/raw/**/*
+!data/raw/.gitkeep
+
+# Curated data
+data/curated/**/*
+!data/curated/.gitkeep
+
+# Staged data
+data/staged/**/*
+!data/staged/.gitkeep
+
+# Entornos Python
+.venv/
+__pycache__/
+*.pyc
+
+# Notebooks
+.ipynb_checkpoints/
+
+# Docker
+docker-volumes/
+
+# MkDocs
+site/
+
